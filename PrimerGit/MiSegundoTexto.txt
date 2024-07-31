@@ -1,0 +1,1 @@
+Hola Mundo, este es mi SEGUNDO texto. Estoy haciendo ejercicios con GIT y con el Símbolo del Sistema 
